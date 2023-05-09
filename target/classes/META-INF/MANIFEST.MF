@@ -1,0 +1,42 @@
+Manifest-Version: 1.0
+Built-By: user
+Build-Jdk: 20
+Class-Path: lib/selenium-chrome-driver-4.8.3.jar lib/auto-service-annota
+ tions-1.0.1.jar lib/auto-service-1.0.1.jar lib/auto-common-1.2.jar lib/
+ guava-31.1-jre.jar lib/failureaccess-1.0.1.jar lib/listenablefuture-999
+ 9.0-empty-to-avoid-conflict-with-guava.jar lib/jsr305-3.0.2.jar lib/che
+ cker-qual-3.12.0.jar lib/error_prone_annotations-2.11.0.jar lib/j2objc-
+ annotations-1.3.jar lib/selenium-api-4.8.3.jar lib/selenium-chromium-dr
+ iver-4.8.3.jar lib/selenium-json-4.8.3.jar lib/selenium-manager-4.8.3.j
+ ar lib/selenium-remote-driver-4.8.3.jar lib/netty-buffer-4.1.90.Final.j
+ ar lib/netty-codec-http-4.1.90.Final.jar lib/netty-codec-4.1.90.Final.j
+ ar lib/netty-handler-4.1.90.Final.jar lib/netty-common-4.1.90.Final.jar
+  lib/netty-transport-classes-epoll-4.1.90.Final.jar lib/netty-transport
+ -classes-kqueue-4.1.90.Final.jar lib/netty-transport-native-unix-common
+ -4.1.90.Final.jar lib/netty-transport-4.1.90.Final.jar lib/netty-resolv
+ er-4.1.90.Final.jar lib/opentelemetry-api-1.24.0.jar lib/opentelemetry-
+ context-1.24.0.jar lib/opentelemetry-exporter-logging-1.24.0.jar lib/op
+ entelemetry-sdk-metrics-1.24.0.jar lib/opentelemetry-sdk-logs-1.24.0-al
+ pha.jar lib/opentelemetry-api-logs-1.24.0-alpha.jar lib/opentelemetry-a
+ pi-events-1.24.0-alpha.jar lib/opentelemetry-sdk-common-1.24.0.jar lib/
+ opentelemetry-sdk-extension-autoconfigure-spi-1.24.0.jar lib/openteleme
+ try-sdk-extension-autoconfigure-1.24.0-alpha.jar lib/opentelemetry-sdk-
+ trace-1.24.0.jar lib/opentelemetry-sdk-1.24.0.jar lib/opentelemetry-sem
+ conv-1.24.0-alpha.jar lib/jtoml-2.0.0.jar lib/async-http-client-2.12.3.
+ jar lib/async-http-client-netty-utils-2.12.3.jar lib/netty-codec-socks-
+ 4.1.60.Final.jar lib/netty-handler-proxy-4.1.60.Final.jar lib/netty-tra
+ nsport-native-epoll-4.1.60.Final-linux-x86_64.jar lib/netty-transport-n
+ ative-kqueue-4.1.60.Final-osx-x86_64.jar lib/reactive-streams-1.0.3.jar
+  lib/netty-reactive-streams-2.0.4.jar lib/slf4j-api-1.7.30.jar lib/jaka
+ rta.activation-1.2.2.jar lib/selenium-http-4.8.3.jar lib/failsafe-3.3.1
+ .jar lib/selenium-support-4.8.3.jar lib/byte-buddy-1.14.2.jar lib/selen
+ ium-java-3.141.59.jar lib/selenium-edge-driver-3.141.59.jar lib/seleniu
+ m-firefox-driver-3.141.59.jar lib/selenium-ie-driver-3.141.59.jar lib/s
+ elenium-opera-driver-3.141.59.jar lib/selenium-safari-driver-3.141.59.j
+ ar lib/commons-exec-1.3.jar lib/okhttp-3.11.0.jar lib/okio-1.14.0.jar l
+ ib/testng-7.3.0.jar lib/jcommander-1.78.jar lib/ant-1.10.3.jar lib/ant-
+ launcher-1.10.3.jar lib/guice-4.2.2-no_aop.jar lib/javax.inject-1.jar l
+ ib/aopalliance-1.0.jar lib/snakeyaml-1.21.jar
+Main-Class: your_main_class
+Created-By: Maven Integration for Eclipse
+
