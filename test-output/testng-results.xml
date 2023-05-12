@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-05-11T06:53:15 GMT-07:00" name="Default suite" finished-at="2023-05-11T06:53:23 GMT-07:00" duration-ms="7820">
+  <suite started-at="2023-05-11T21:24:30 GMT-07:00" name="Default suite" finished-at="2023-05-11T21:24:38 GMT-07:00" duration-ms="8772">
     <groups>
     </groups>
-    <test started-at="2023-05-11T06:53:15 GMT-07:00" name="Default test" finished-at="2023-05-11T06:53:23 GMT-07:00" duration-ms="7820">
+    <test started-at="2023-05-11T21:24:30 GMT-07:00" name="Default test" finished-at="2023-05-11T21:24:38 GMT-07:00" duration-ms="8772">
       <class name="Tests.GoogleTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.GoogleTest@15ff3e9e]" started-at="2023-05-11T06:53:15 GMT-07:00" name="setup" finished-at="2023-05-11T06:53:19 GMT-07:00" duration-ms="3864" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.GoogleTest@15ff3e9e]" started-at="2023-05-11T21:24:30 GMT-07:00" name="setup" finished-at="2023-05-11T21:24:34 GMT-07:00" duration-ms="4494" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="searchTest()[pri:0, instance:Tests.GoogleTest@15ff3e9e]" started-at="2023-05-11T06:53:19 GMT-07:00" name="searchTest" finished-at="2023-05-11T06:53:23 GMT-07:00" duration-ms="3665" status="PASS">
+        <test-method signature="searchTest()[pri:0, instance:Tests.GoogleTest@15ff3e9e]" started-at="2023-05-11T21:24:34 GMT-07:00" name="searchTest" finished-at="2023-05-11T21:24:38 GMT-07:00" duration-ms="3908" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchTest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:Tests.GoogleTest@15ff3e9e]" started-at="2023-05-11T06:53:23 GMT-07:00" name="teardown" finished-at="2023-05-11T06:53:23 GMT-07:00" duration-ms="251" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Tests.GoogleTest@15ff3e9e]" started-at="2023-05-11T21:24:38 GMT-07:00" name="teardown" finished-at="2023-05-11T21:24:38 GMT-07:00" duration-ms="324" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
